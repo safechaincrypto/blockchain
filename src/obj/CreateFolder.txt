@@ -1,0 +1,2 @@
+"src/obj"-folder must to be contains, in clonned repo,
+to start building on Ubuntu using this guide: "doc/build-unix.txt"
